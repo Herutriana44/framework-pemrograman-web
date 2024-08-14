@@ -1,4 +1,4 @@
 # Data Diri
 
-Nama Lengkap: Heru Triana
-NPM : 2110631170022
+1. Nama Lengkap : Heru Triana
+2. NPM : 2110631170022
